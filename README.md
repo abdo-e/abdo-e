@@ -61,23 +61,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdo-e&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdo-e&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-e&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add link here)*
-- 📧 Email: *(optional)*
-- 🌐 Portfolio: *(coming soon 🚧)*
+
+- 📧 Email: abdo4boz@gmail.com
 
 ---
 
