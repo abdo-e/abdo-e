@@ -1,71 +1,67 @@
-<h1 align="center">Hi 👋, I'm Abdrahmen</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Developer | ML Enthusiast</h3>
+<h1 align="center">Hey there! 🚀 I'm Abdrahmen</h1>
+
+<h3 align="center">Full-Stack Alchemist • ML Explorer • Code Architect in the Making</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Angular+%7C+React+%7C+Spring+Boot;Node.js+%7C+PostgreSQL;Machine+Learning+%26+AI+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00D4FF&center=true&vCenter=true&width=680&height=70&lines=Full-Stack+Sorcerer;Angular+%7C+React+%7C+Next.js;Spring+Boot+%7C+Node.js+%7C+Express;PostgreSQL+%7C+MongoDB;Crafting+AI+%26+Scalable+Systems;Always+one+commit+away+from+something+epic" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdo-e&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/abdo-e?label=Followers&style=flat&color=0e75b6" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 **Software Engineering Student**
-- 💻 **Full-Stack Developer**
-- 🧠 Passionate about **Machine Learning & Artificial Intelligence**
-- 🏗️ Love building **real-world projects** & scalable systems
-- 🌍 Based in **Tunisia**
-
----
-
-## 🧠 Currently Focusing On
-- Advanced **Angular & React** architectures  
-- **Spring Boot & Express.js** backend systems  
-- **PostgreSQL & MongoDB** optimization  
-- **Machine Learning projects** for CV & competitions  
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdo-e&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://komarev.com/ghpvc/?username=abdo-e&label=Profile+Views&color=00D4FF&style=for-the-badge&logo=starship&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/abdo-e?color=00D4FF&style=for-the-badge&logo=starship&labelColor=0d1117" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdo-e&theme=radical&no-frame=true&margin-w=15&row=1&column=7&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117" alt="Trophies" />
+</div>
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white)
+## 🌌 About This Coder
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white)
+- 🎓 Software Engineering student turning theory into 🔥 real-world impact
+- 💾 Full-stack developer who breathes **TypeScript ↔ Java** daily
+- 🧠 Deeply obsessed with **Machine Learning**, **Computer Vision** & **AI competitions**
+- ⚡ I build **scalable**, **performant** and **beautiful** systems
+- 📍 Proudly crafting from **Tunisia** 🇹🇳
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white)
+## 🧬 Currently Levelling Up
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+- 🎨 Clean & enterprise-grade **Angular** architecture + **Signals** magic  
+- ⚛️ Modern **React** / **Next.js** patterns + performance obsession  
+- ☕ **Spring Boot** microservices + **security-first** mindset  
+- 🚀 **Node.js / Express / NestJS** — fast & furious backends  
+- 🗄️ Deep dives into **PostgreSQL** indexing & **MongoDB** aggregation pipelines  
+- 🤖 Competing & building **ML/CV** side projects (Kaggle, personal experiments)
+
+## 🛠️ My Current Arsenal (2026 Edition)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,ts,js,html,css" alt="Frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,java,python" alt="Backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,docker,git,linux" alt="Tools & DB" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="ML" />
+</p>
+
+## 📡 Let's Build Something Legendary
+
+<p align="center">
+  <a href="mailto:abdo4boz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/abderrahmen-[your-username]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Add more if you have Twitter/X, Discord, etc. -->
+</p>
 
 ---
 
+<p align="center">
+  <i>"First solve the problem. Then write the code." — but make it look insanely good.</i>
+</p>
 
-## 📫 Connect With Me
-
-- 📧 Email: abdo4boz@gmail.com
-
----
-
-⭐ **If you like my work, consider starring my repositories!**
+<p align="center">
+  ⭐ If any of my repos spark joy → <strong>star</strong> them!<br/>
+  💬 Open to collabs, ML discussions, or just geeky tech talks
+</p>
